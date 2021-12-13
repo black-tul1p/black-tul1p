@@ -56,7 +56,9 @@ As for work experience, I have previously worked at **The Department of Economic
 
 ### Personal Stats 📈
 
-![Divay's gitHub Rating](https://github-readme-stats.vercel.app/api?username=black-tul1p&show_icons=true&count_private=true&hide=stars&theme=github_dark)
+[![Divay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-tul1p&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Divay's GitHub Rating](https://github-readme-stats.vercel.app/api?username=black-tul1p&show_icons=true&count_private=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 <!--
 **black-tul1p/black-tul1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
