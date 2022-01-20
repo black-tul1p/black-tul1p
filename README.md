@@ -2,7 +2,7 @@
 
 I am **Divay Gupta**, and I'm a current junior in the Computer Science program at **Purdue University** with a minor in Mathematics. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Systems Programming and Software Security. 
 
-As for work experience, I have previously worked at **The Department of Economic Develeopment - Dubai Govt.** as an Application Development Intern during Summer 2021.
+As for work experience, I have previously worked at The Department of Economic Develeopment - Dubai Govt. as an **Application Development Intern** during Summer 2021. I am currently working as a **Teaching Assistant** for the Systems Programming course at the Purdue University department of Computer Science.
 
 ### Languages 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
