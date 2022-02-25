@@ -1,6 +1,6 @@
 ## Hello and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-I am **Divay Gupta**, and I'm a current junior in the Computer Science program at **Purdue University** with a minor in Mathematics. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Systems Programming and Software Security. 
+I am **Divay Gupta**, and I'm a current junior in the *Computer Science* program at **Purdue University** with a minor in *Mathematics*. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Systems Programming and Software Security. 
 
 As for work experience, I am currently working as a part-time ***Web Application Developer*** for [A2E Solutions](https://www.facebook.com/a2esolutions/). I am also currently working as a ***Teaching Assistant*** for the Systems Programming course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/). I have previously worked at [The Department of Economic Development - Dubai Govt.](https://ded.ae/) as an ***Application Development Intern*** during Summer 2021.
 
