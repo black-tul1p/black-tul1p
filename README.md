@@ -2,7 +2,7 @@
 
 I am **Divay Gupta**, and I'm a current Senior in the *Computer Science* program at **Purdue University** with a minor in *Mathematics*. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Web Development and Low-level orogramming. 
 
-As for work experience, I most recently interned as a ***AI/ML Data Engineer*** for [Slalom](https://www.slalom.com/). I have also recently worked as a ***Web Application Developer*** for [A2E Solutions](https://www.facebook.com/a2esolutions/) and am currently a ***Teaching Assistant*** for the Systems Programming course and the Programming in C course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/). I have previously worked at [The Department of Economic Development - Dubai Govt.](https://ded.ae/) as an ***Applications Development Intern*** during Summer 2021.
+As for work experience, I interned this summer as a ***AI/ML Data Engineer*** for [Slalom](https://www.slalom.com/). I have also recently worked as a ***Web Applications Developer*** for A2E Solutions and am currently a ***Teaching Assistant*** for the Systems Programming course and the Programming in C course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/). I have previously worked at the [Department of Economy & Tourism, Dubai](https://www.visitdubai.com/) as an ***Applications Development Intern*** during Summer 2021.
 
 ### Languages 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
