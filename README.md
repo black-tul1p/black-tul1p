@@ -1,8 +1,8 @@
 ## Hello and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-I am **Divay Gupta**, and I'm a current junior in the *Computer Science* program at **Purdue University** with a minor in *Mathematics*. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Systems Programming and Software Security. 
+I am **Divay Gupta**, and I'm a current Senior in the *Computer Science* program at **Purdue University** with a minor in *Mathematics*. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Systems Programming and Software Security. 
 
-As for work experience, I am currently working as an ***AI/ML Data Engineer Intern*** for [Slalom](https://www.slalom.com/). I have also recently worked as a ***Web Application Developer*** for [A2E Solutions](https://www.facebook.com/a2esolutions/) and as a ***Teaching Assistant*** for the Systems Programming course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/). I have previously worked at [The Department of Economic Development - Dubai Govt.](https://ded.ae/) as an ***Application Development Intern*** during Summer 2021.
+As for work experience, I most recently interned as a ***AI/ML Data Engineer*** for [Slalom](https://www.slalom.com/). I have also recently worked as a ***Web Application Developer*** for [A2E Solutions](https://www.facebook.com/a2esolutions/) and am currently a ***Teaching Assistant*** for the Systems Programming course and the Programming in C course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/). I have previously worked at [The Department of Economic Development - Dubai Govt.](https://ded.ae/) as an ***Applications Development Intern*** during Summer 2021.
 
 ### Languages 👨‍💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -21,6 +21,7 @@ As for work experience, I am currently working as an ***AI/ML Data Engineer Inte
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ### Frameworks ⚒
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
@@ -33,6 +34,8 @@ As for work experience, I am currently working as an ***AI/ML Data Engineer Inte
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
 ### Other Tools ⚙
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
