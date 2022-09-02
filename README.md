@@ -2,6 +2,8 @@
 
 I am **Divay Gupta**, and I'm a current Senior in the *Computer Science* program at **Purdue University** with a minor in *Mathematics*. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Web Development and Low-level orogramming. 
 
+I am currently working as an ***Undergraduate Researcher*** with [Merck](https://www.merck.com/) (through Purdue), where I am researching and developing pose-estimation models in order to detect the level of PPE compliance in lab settings and provide text-based contextual inference, using video data.
+
 As for work experience, I interned this summer as a ***AI/ML Data Engineer*** for [Slalom](https://www.slalom.com/). I have also recently worked as a ***Web Applications Developer*** for A2E Solutions and am currently a ***Teaching Assistant*** for the Systems Programming course and the Programming in C course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/). I have previously worked at the [Department of Economy & Tourism, Dubai](https://www.visitdubai.com/) as an ***Applications Development Intern*** during Summer 2021.
 
 ### Languages 👨‍💻
