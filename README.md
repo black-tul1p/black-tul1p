@@ -7,10 +7,11 @@ I am currently working as an ***Undergraduate Researcher*** with [Merck](https:/
 As for work experience, I interned this summer as a ***AI/ML Data Engineer*** for [Slalom](https://www.slalom.com/). I have also recently worked as a ***Web Applications Developer*** for A2E Solutions and am currently a ***Teaching Assistant*** for the Systems Programming course and the Programming in C course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/). I have previously worked at the [Department of Economy & Tourism, Dubai](https://www.visitdubai.com/) as an ***Applications Development Intern*** during Summer 2021.
 
 ### Languages 👨‍💻
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
