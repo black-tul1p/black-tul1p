@@ -57,12 +57,12 @@ I interned this summer as a ***AI/ML Data Engineer*** for [Slalom](https://www.s
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/42rh98tp3kag8qtlkmzstv33a?si=e148c231fc084dec)
 [![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)](https://www.freecodecamp.org/black-tul1p)
 
+<!--
 
 ### Personal Stats 📈
 
 [![Divay's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=black-tul1p&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
 ![Divay's GitHub Rating](https://github-readme-stats.vercel.app/api?username=black-tul1p&show_icons=true&count_private=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
 **black-tul1p/black-tul1p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
