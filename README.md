@@ -1,6 +1,6 @@
 ## Hello and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
-I am **Divay Gupta**, and I'm a current Senior in the *Computer Science* program at **Purdue University** with a minor in *Mathematics*. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Web Development and Low-level programming. 
+My name is **Divay Gupta**, and I'm a current Senior in the *Computer Science* program at **Purdue University** with a minor in *Mathematics*. I'm interested in various fields in computing, including Software Engineering, Machine Learning, Web Development and Low-level programming. 
 
 I am currently working as an ***Undergraduate Researcher*** with [Merck & Co.](https://www.merck.com/) (through Purdue's Data Mine program), where I am researching and developing Machine Learning models that utilize Human Parsing in order to detect the level of PPE compliance in lab settings and provide text-based contextual inference, using video data. I am also currently a ***Teaching Assistant*** for the Systems Programming course and the Programming in C course at the [Purdue University Department of Computer Science](https://www.cs.purdue.edu/)
 
