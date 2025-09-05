@@ -1,7 +1,7 @@
 ## Hello and welcome! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">
 
 <!-- <p align="center"> -->
-<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=4000&height=60&pause=500&multiline=true&lines=Divay+Gupta;Web+Dev+%7C+Software+Engineer+%7C+Purdue+CS+2023+" />
+<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&duration=4000&height=60&pause=500&multiline=true&lines=Divay+Gupta;Software+Engineer+%7C+ML+Engineer+%7C+Full-Stack" />
 <!-- <img src="https://github-stats-alpha.vercel.app/api?username=black-tul1p&cc=22272e&tc=37BCF6&ic=fff&bc=0000" />  -->
 <!-- </p> -->
 
